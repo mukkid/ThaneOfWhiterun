@@ -12,7 +12,8 @@ numbers = {datas[2]:datas[3],
         datas[4]:datas[5],
         datas[6]:datas[7],
         datas[8]:datas[9],
-        datas[10]:datas[11]
+        datas[10]:datas[11],
+        datas[12]:datas[13]
         }
 
 def login_check():
